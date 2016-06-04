@@ -7,7 +7,6 @@ import theano
 import numpy as np
 import time
 
-np.random.seed(42)
 
 class MF(object):
 
