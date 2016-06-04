@@ -1,5 +1,5 @@
 '''
-Matrix-factorization using Alternative least square method using theano.
+Matrix-factorization using SGD method using theano.
 '''
 
 import theano.tensor as T

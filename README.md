@@ -1,4 +1,4 @@
-# Matrix-factorization using Alternating least square method on GPU
+# Matrix-factorization using SGD on GPU
 
 Large scale matrix factorization on GPU. Instructions to run:
 
